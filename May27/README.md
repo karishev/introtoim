@@ -1,4 +1,4 @@
-#Simple work of Art
+# Simple work of Art
 
 This is assignment wasn't really hard, I just tried to adjust the sizes and making some changes with the numbers I chose. 
 

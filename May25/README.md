@@ -1,3 +1,3 @@
-
+# Self Potrait
 At the start, I wanted to make a decent work, so I tried to learn the curve function. However, after making the shape of the head, it took me about one and a half hour, so I thought it was not worth it. You can see that looking at the hair, eyes and mouth. All three of them took me around 10 minutes, so I decided to make a good nose, because at first it was just a triangle. It also took me an hour to make the nose, due to all of the calculations of the curve and arc functions. The good thing is that I used math in the curve function, because of the description of the function, it uses the tangent lines. The whole work took around two and a half hours, but I think it was worth it.  
 ![portrait](https://user-images.githubusercontent.com/71120362/119406310-6e1f5c80-bd04-11eb-902c-13a7d425d4f3.png)

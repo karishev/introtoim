@@ -1,5 +1,10 @@
 # Game
 
+At the start I wanted to understand some of the Java better, so I went to a website where the classes and functions were explained. I used https://www.w3schools.com/java and https://www.geeksforgeeks.org for learning some stuff. After that I reviewed some of my old games that I made during Intro to CS on Processing and was thinking on which game to implement. At first I was thinking about something not so hard and popular, as the pingpong game, but then I have seen on Discord that someone has already done it. 
+
+
+
+
 The screenshot below shows the starting screen with the 'good fruit' that could be eaten and the score increments. 
 
 ![java_2F0g1PUnKT](https://user-images.githubusercontent.com/71120362/120118274-6dc70b80-c1b3-11eb-8566-81498331eab6.png)

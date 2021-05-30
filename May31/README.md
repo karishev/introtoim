@@ -1,3 +1,5 @@
+# Game
+
 The screenshot below shows the starting screen with the 'good fruit' that could be eaten and the score increments. 
 
 ![java_2F0g1PUnKT](https://user-images.githubusercontent.com/71120362/120118274-6dc70b80-c1b3-11eb-8566-81498331eab6.png)

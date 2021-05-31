@@ -1,3 +1,6 @@
+# Snake Game
+
+
 It is know 5 am in my city and I don't know why I wanted so hard to make this shitty version of snake. I guess other modifications will be easier, such as restarting the game, some fixes.
 However, this game took me around 5 hours to make only because of my mistakes that I didn't really understand. I had an idea at the start, I even made a sketch when I was heading home 
 by the bus on my phone. 
@@ -15,3 +18,10 @@ However, my first plan didn't work. As it could be seen in the changedirection f
 I really want to understand why some things didn't work, because I have treid the same changedirection function without the block class and it didn't work. But after I have made a new blovk class,
 suddenly it worked. I was really suprised with that result. I think it was my stubborness that wanted to make the snake, even though it is an easy game to implement and I have wasted 5 hours on this.
 But I think it is alright, hope you will try it. 
+
+Here are some screenshots from the game:
+
+![java_BgWkkSpjEQ](https://user-images.githubusercontent.com/71120362/120249086-7e52b100-c29b-11eb-8a77-2204f708c38b.png)
+![java_KLjeK9ON0P](https://user-images.githubusercontent.com/71120362/120249088-7eeb4780-c29b-11eb-8b39-4d1e4cbc166f.png)
+![java_lBfJUypGmg](https://user-images.githubusercontent.com/71120362/120249089-7eeb4780-c29b-11eb-869c-464159ba7700.png)
+![java_78f4jhNYeA](https://user-images.githubusercontent.com/71120362/120249090-7f83de00-c29b-11eb-8383-45b5703d4c3e.png)

@@ -17,8 +17,8 @@ by the bus on my phone.
 <img src= "https://user-images.githubusercontent.com/71120362/120248611-bb1da880-c299-11eb-98d0-448fe8fcd76c.jpg" style = "display: inline-block;" width="100" height="200">
 
 
-However, my first plan didn't work. As it could be seen in the changedirection function, there are some codeblocks that I have '//'-ed, but they represent my tears and time spent on nothing
-I really want to understand why some things didn't work, because I have treid the same changedirection function without the block class and it didn't work. But after I have made a new blovk class,
+However, my first plan didn't work. As it could be seen in the changedirection function, there are some codeblocks that I have '//'-ed, but they represent my tears and time spent on nothing.
+I really want to understand why some things didn't work, because I have tried the same changedirection function without the block class and it didn't work. But after I have made a new blovk class,
 suddenly it worked. I was really suprised with that result. I think it was my stubborness that wanted to make the snake, even though it is an easy game to implement and I have wasted 5 hours on this.
 But I think it is alright, hope you will try it. 
 

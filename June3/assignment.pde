@@ -15,7 +15,6 @@ class rectangle
 		angle = 0;
 		speed = random(0,0.2);
 		figure = circleorrectangle;				//this is needed to understand what to draw: rectangle or ellipse
-
 	} 
 
 	void spin()									//for spinning purposes
@@ -45,11 +44,8 @@ class rectangle
 			ellipse(0, 0, w,w+h);
 			popMatrix();
 		}
-		spin();									//spin function
-			
+		spin();									//spin function		
 	}
-		
-
 }
 
 rectangle[] rectangles;

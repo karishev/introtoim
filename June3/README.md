@@ -6,6 +6,8 @@ At the start, I didn't really understand the prompt of the assignment, so I hope
 I really liked the idea of spinning objects, so I decided to implement them in the assignment. I used rectangle and ellipse as the figures and everything including height, width, colors 
 are random. Therefore, the output wouldn't be predicted. I alaso added a function to stop the spinning if the user presses the mouse on screen and the spinning resumes, if the mouse is 
 released. Here are two videos of two runs and some screenshots;
+
+
 ![java_JWcmbUsCVZ](https://user-images.githubusercontent.com/71120362/120534737-fe942600-c403-11eb-9955-6f29381202d5.png)
 
 

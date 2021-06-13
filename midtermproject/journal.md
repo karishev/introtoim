@@ -26,7 +26,10 @@ Found the images <a href="https://www.vg-resource.com/thread-21558.html" >here. 
 Found the audio <a href="https://www.sounds-resource.com/mobile/doodlejump/sound/1636/" >here. </a>
 Created the doodler class, so he can just jump on one space right now in the bottom of the screen. After that made him also jump right and left and shoot. Also used some logic of my previous project that I made in "Intro to CS" class. That game also used shooting aspect when pressed button and also the collision aspect. Therefore I tried that to implement it to this game. Even though it was written in Python, it wasn't that hard to implement into Java. After that started to work on platforms and it worked fine as it could be seen on the video below. Implemented the moving ones after.
 
-https://user-images.githubusercontent.com/71120362/121824640-70efea80-cccf-11eb-92c8-e6ade8b4fd53.mp4
+
+https://user-images.githubusercontent.com/71120362/121825186-c11c7c00-ccd2-11eb-8354-cccba7b6e234.mp4
+
+
 
 After that implemented the scroll effect, so when the user is coming to the middle of teh screen, it will look like all the objects also move down. All of above took me about 5 hours to do, so yeah, was pretty hard.
 

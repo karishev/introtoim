@@ -22,10 +22,35 @@ The Game class will just add everything together. So the doodler, bullets, enemi
 
 
 # 12.06.2021
-
-Created the doodler class, so he can just jump on one space right now in the bottom of the screen. After that made him also jump right and left and shoot. Also used some logic of my previous project that I made in "Intro to CS" class. That game also used shooting aspect when pressed button and also the collision aspect. Therefore I tried that to implement it to this game. Even though it was written in Python, it wasn't that hard to implement into Java. After that started to work on platforms and it worked fine as it could be seen on the video below.
+Found the images <a href="https://www.vg-resource.com/thread-21558.html" >here. </a>
+Found the audio <a href="https://www.sounds-resource.com/mobile/doodlejump/sound/1636/" >here. </a>
+Created the doodler class, so he can just jump on one space right now in the bottom of the screen. After that made him also jump right and left and shoot. Also used some logic of my previous project that I made in "Intro to CS" class. That game also used shooting aspect when pressed button and also the collision aspect. Therefore I tried that to implement it to this game. Even though it was written in Python, it wasn't that hard to implement into Java. After that started to work on platforms and it worked fine as it could be seen on the video below. Implemented the moving ones after.
 
 https://user-images.githubusercontent.com/71120362/121824640-70efea80-cccf-11eb-92c8-e6ade8b4fd53.mp4
 
+After that implemented the scroll effect, so when the user is coming to the middle of teh screen, it will look like all the objects also move down. All of above took me about 5 hours to do, so yeah, was pretty hard.
 
-Found the audio <a href="https://www.sounds-resource.com/mobile/doodlejump/sound/1636/" >here. </a>
+# 13.06.2021
+Started with making the starting screen and pause key, so it will appear also when the key is pressed. Below is the screenshot of the start/pause info.
+
+
+![java_Lp5x0EXr6a](https://user-images.githubusercontent.com/71120362/121824859-f3c57500-ccd0-11eb-9aee-1b797ed91764.png)
+
+Implemented the score bar, so it will be seen how much progress is made. 
+
+![java_mUq5kD2gMQ](https://user-images.githubusercontent.com/71120362/121824884-2c654e80-ccd1-11eb-92d3-5b50f9744416.png)
+
+Also added a level system, so if you are in level 0, there wouldn't be monster, if you are in level 1, the monsters will start to appear.
+Added the Bullet class, to shoot, when the UP key is pressed. 
+
+![java_mUq5kD2gMQ](https://user-images.githubusercontent.com/71120362/121824923-6f272680-ccd1-11eb-9a5e-62303e9db70c.png)
+
+After that just made the monster class, a function to check how the monster will appear and the collision system with the bullets and doodler and the game was done. In addition, made the gameover screen. It all took me about 8-9 hours, it is now 5 in the morning 14.06.21, when I am submitting it. It is also because I had another project to worry about, which is Communication Lab. In my opinion, what helped me to make this game was the fact that I had some experience with c++ and processing before. Hopefully, I informed and documented every process. Hope you will like playing the game! Below is a video of how I played the game.
+
+
+
+https://user-images.githubusercontent.com/71120362/121825089-700c8800-ccd2-11eb-90d4-b31db7d27e55.mp4
+
+
+https://user-images.githubusercontent.com/71120362/121825091-73a00f00-ccd2-11eb-9f0b-978ac8f47aac.mp4
+

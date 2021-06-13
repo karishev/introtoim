@@ -46,7 +46,8 @@ Implemented the score bar, so it will be seen how much progress is made.
 Also added a level system, so if you are in level 0, there wouldn't be monster, if you are in level 1, the monsters will start to appear.
 Added the Bullet class, to shoot, when the UP key is pressed. 
 
-![java_mUq5kD2gMQ](https://user-images.githubusercontent.com/71120362/121824923-6f272680-ccd1-11eb-9a5e-62303e9db70c.png)
+![java_37pDxsNmSw](https://user-images.githubusercontent.com/71120362/121825269-3720e300-ccd3-11eb-8b3b-fbfa910e3c52.png)
+
 
 After that just made the monster class, a function to check how the monster will appear and the collision system with the bullets and doodler and the game was done. In addition, made the gameover screen. It all took me about 8-9 hours, it is now 5 in the morning 14.06.21, when I am submitting it. It is also because I had another project to worry about, which is Communication Lab. In my opinion, what helped me to make this game was the fact that I had some experience with c++ and processing before. Hopefully, I informed and documented every process. Hope you will like playing the game! Below is a video of how I played the game.
 

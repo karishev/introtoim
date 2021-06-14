@@ -2,6 +2,12 @@
 
 Basically a programm blinks in some order with the leds and the user needs to blink in the same order by pressing the buttons. If it was made in right order, the three leds will blink at the same time. If not, they will blink one by one. 
 
+Schematic:
+
+![photo_2021-06-14_07-42-43](https://user-images.githubusercontent.com/71120362/121829418-478d8980-cce4-11eb-91e2-44aec1e94ff1.jpg)
+
+
+Photos:
 
 ![IMG_1270](https://user-images.githubusercontent.com/71120362/121828681-22981700-cce2-11eb-8323-7de15ebb839e.JPG)
 

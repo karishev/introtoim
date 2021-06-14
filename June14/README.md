@@ -9,7 +9,7 @@ Schematic:
 
 Photos:
 
-![IMG_1270](https://user-images.githubusercontent.com/71120362/121828681-22981700-cce2-11eb-8323-7de15ebb839e.JPG)
+<img src="IMG_1270.JPG" width = "350">
 
 ![IMG_1271](https://user-images.githubusercontent.com/71120362/121828674-1ca23600-cce2-11eb-87a2-d12f4e36663e.JPG)
 

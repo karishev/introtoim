@@ -3,6 +3,7 @@
 Basically a programm blinks in some order with the leds and the user needs to blink in the same order by pressing the buttons. If it was made in right order, the three leds will blink at the same time. If not, they will blink one by one. 
 
 Schematic:
+
 <img src="schematic.jpg" width = "350">
 
 

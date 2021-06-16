@@ -1,5 +1,8 @@
 # Analog and Digital LEDs
 
+
+Schematic:
+
 <img src="schematic17.06.jpg" width = 400>
 
 This arduino has the light sensor, which is after some observations, constrained between 70 and 180. This was made to then, if the other LED is workig, get approximately the same 

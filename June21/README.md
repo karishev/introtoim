@@ -5,7 +5,7 @@ notes and the potentiometer changes the notes duration. You can play with that a
 
 Schematic: 
 
-<img src="schematic.png" width = 50%>
+<img src="schematic21.06.png" width = 50%>
 
 Arduino:
 

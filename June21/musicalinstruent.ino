@@ -23,6 +23,7 @@ void setup() {
   Serial.begin(9600);
   pinMode(blueSwitch, INPUT);
   pinMode(potentiometer, INPUT);
+  pinMode(redSwitch, INPUT);
 }
 
 //to traverse through the notes in two arrays

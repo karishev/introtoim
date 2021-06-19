@@ -9,6 +9,6 @@ Schematic:
 
 Arduino:
 
-<img src="pic1.JPG" width = 30%>
-<img src="pic2.JPG" width = 30%>
-<img src="pic3.JPG" width = 30%>
+<img src="pic1.JPG" width = 20%>
+<img src="pic2.JPG" width = 20%>
+<img src="pic3.JPG" width = 20%>

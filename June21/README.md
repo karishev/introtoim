@@ -12,3 +12,8 @@ Arduino:
 <img src="pic1.JPG" width = 30%>
 <img src="pic2.JPG" width = 30%>
 <img src="pic3.JPG" width = 30%>
+
+
+I also uploaded the video, so you can watch how the game works. You can see it <a href="https://www.youtube.com/watch?v=LFRJDwyCKEY&ab_channel=%D0%90%D0%B7%D0%B0%D0%BC%D0%B0%D1%82%D0%94%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%90%D0%B7%D0%B0%D0%BC%D0%B0%D1%82%D0%94%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2"> here. </a>
+
+

@@ -9,4 +9,5 @@ Schematic:
 <img src="IMG_1351.JPG" width = 400px>
 
 Arduino:
+
 <img src="IMG_1350.JPG" width = 400px>

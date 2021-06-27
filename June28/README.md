@@ -6,7 +6,7 @@ the right which is needed to start/pause and restart the game whenever you want.
 
 Schematic:
 
-<img src="IMG_1350.JPG" width = 400px>
+<img src="IMG_1351.JPG" width = 400px>
 
 Arduino:
-<img src="IMG_1349.JPG" width = 400px>
+<img src="IMG_1350.JPG" width = 400px>

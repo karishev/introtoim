@@ -8,11 +8,11 @@ You can see the gameplay <a href = "https://www.youtube.com/watch?v=YBJGUBKkHfE"
 
 The Arduino:
 
-<img src=""arduinoimg.jpg width = "500px">
+<img src="arduinioimg.jpg" width = "500px">
 
 
 The Schematic:
 
-<img src=""schematic.jpg width = "500px>
+<img src="schematic.jpg" width = "500px>
                                    
                              
